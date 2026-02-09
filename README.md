@@ -23,6 +23,17 @@ Course Link: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-201
 | Double Integrals and Line Integrals in the Plane | Double integrals, vector fields and line integrals, Green's Theorem |
 | Triple Integrals and Surface Integrals in 3-Space | Triple integrals, flux and the Divergence Theorem, line integrals and Stokes' Theorem, physics applications |
 
+## Coursework
+
+| Type | Count |
+|------|-------|
+| Sessions | 83 |
+| Problem Sets | 12 |
+| Exams | 4 |
+| Final Exam | 1 |
+| Practice Exams | 4 |
+| Practice Final Exam | 1 |
+
 ## Transcript
 
 | Assessment | Grade |

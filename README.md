@@ -4,7 +4,7 @@
 
 ![logo](./logo.jpg)
 
-My coursework for MIT OCW 18.02SC Multivariable Calculus Fall 2010 class. This covers the exact same coursework required of MIT students present at class for full marks.
+My coursework for MIT OCW 18.02SC Multivariable Calculus Fall 2010 class. This covers the exact same coursework required of MIT students present in class for full marks.
 
 All solutions are my own.
 
@@ -12,7 +12,7 @@ Because the Scholar (SC) version of the course was taken, the coursework is orga
 
 Taught by [Prof. Dennis Auroux](https://ocw.mit.edu/search/?q=Prof.+Dennis+Auroux) and Recitation Instructors Christine Breiner, David Jordan and Joel Lewis.
 
-Course Link: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
+Course Homepage: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
 
 ## Topics Covered
 
@@ -53,6 +53,13 @@ Course Link: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-201
 
 ## My Other MIT Coursework
 
-[18.01SC Single Variable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010) · [18.06SC Linear Algebra](https://github.com/BenyaminJazayeri/MIT-OCW-18.06SC-Linear-Algebra-Fall-2011) · [6.0001 Intro to CS & Programming in Python](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016) · [6.0002 Intro to Computational Thinking & Data Science](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016) · [6.006 Introduction to Algorithms](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011) · [6.034 Artificial Intelligence](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010) · [6.036 Introduction to Machine Learning](https://github.com/BenyaminJazayeri/MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019) · [6.042J Mathematics for Computer Science](https://github.com/BenyaminJazayeri/MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010)
+[18.01SC Single Variable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010)<br>
+[18.06SC Linear Algebra](https://github.com/BenyaminJazayeri/MIT-OCW-18.06SC-Linear-Algebra-Fall-2011)<br>
+[6.0001 Intro to CS & Programming in Python](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016)<br>
+[6.0002 Intro to Computational Thinking & Data Science](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016)<br>
+[6.006 Introduction to Algorithms](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011)<br>
+[6.034 Artificial Intelligence](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010)<br>
+[6.036 Introduction to Machine Learning](https://github.com/BenyaminJazayeri/MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019)<br>
+[6.042J Mathematics for Computer Science](https://github.com/BenyaminJazayeri/MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010)
 
 I'd be very happy to discuss anything related to MIT OCW. Reach me at [benjamin.jazayeri@gmail.com](mailto:benjamin.jazayeri@gmail.com).

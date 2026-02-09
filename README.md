@@ -1,0 +1,56 @@
+# MIT-OCW-18.02SC-Multivariable-Calculus-Fall-2010
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![logo](./logo.jpg)
+
+My coursework for MIT OCW 18.02SC Multivariable Calculus Fall 2010 class. This covers the exact same coursework required of MIT students present at class for full marks.
+
+All solutions are my own.
+
+Because the Scholar (SC) version of the course was taken, the coursework is organized into Sessions, Problem Sets, Exams and Practice Exams. Each includes the problem statements alongside my handwritten solutions.
+
+Taught by [Prof. Dennis Auroux](https://ocw.mit.edu/search/?q=Prof.+Dennis+Auroux) and Recitation Instructors Christine Breiner, David Jordan and Joel Lewis.
+
+Course Link: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
+
+## Topics Covered
+
+| Topic | Subtopics |
+|-------|-----------|
+| Vectors and Matrices | Vectors, determinants and planes, matrices and systems of equations, parametric equations for curves |
+| Partial Derivatives | Functions of two variables, tangent approximation and optimization, chain rule, gradient and directional derivatives, Lagrange multipliers and constrained differentials |
+| Double Integrals and Line Integrals in the Plane | Double integrals, vector fields and line integrals, Green's Theorem |
+| Triple Integrals and Surface Integrals in 3-Space | Triple integrals, flux and the Divergence Theorem, line integrals and Stokes' Theorem, physics applications |
+
+## Transcript
+
+| Assessment | Grade |
+|------------|-------|
+| Exam 1 | 15/15 |
+| Exam 2 | 11/15 |
+| Exam 3 | 12/12 |
+| Exam 4 | 11/11 |
+| Final Exam | 32/32 |
+| Practice Exam 1 | 99/100* |
+| Practice Exam 2 | 93/100* |
+| Practice Exam 3 | 97/100* |
+| Practice Exam 4 | 98/100* |
+| Practice Final Exam | 95/100* |
+
+\*Practice exams were not graded at the time of completion (~2021). To be more precise, they were graded in 2026 using Claude Opus 4.6 with extended thinking enabled, cross-referenced with the official solutions.
+
+## My Other MIT Coursework
+
+| | |
+|---|---|
+| 18.01SC Single Variable Calculus | [MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010) |
+| 18.06SC Linear Algebra | [MIT-OCW-18.06SC-Linear-Algebra-Fall-2011](https://github.com/BenyaminJazayeri/MIT-OCW-18.06SC-Linear-Algebra-Fall-2011) |
+| 6.0001 Intro to CS & Programming in Python | [MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016) |
+| 6.0002 Intro to Computational Thinking & Data Science | [MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016) |
+| 6.006 Introduction to Algorithms | [MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011) |
+| 6.034 Artificial Intelligence | [MIT-OCW-6.034-Artificial-Intelligence-Fall-2010](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010) |
+| 6.036 Introduction to Machine Learning | [MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019](https://github.com/BenyaminJazayeri/MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019) |
+| 6.042J Mathematics for Computer Science | [MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010](https://github.com/BenyaminJazayeri/MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010) |
+
+I'd be very happy to discuss anything related to MIT OCW. Reach me at [benjamin.jazayeri@gmail.com](mailto:benjamin.jazayeri@gmail.com).

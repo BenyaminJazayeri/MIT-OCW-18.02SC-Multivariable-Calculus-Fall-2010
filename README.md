@@ -27,16 +27,16 @@ Course Link: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-201
 
 | Assessment | Grade |
 |------------|-------|
-| Exam 1 | 15/15 |
-| Exam 2 | 11/15 |
-| Exam 3 | 12/12 |
-| Exam 4 | 11/11 |
-| Final Exam | 32/32 |
-| Practice Exam 1 | 99/100* |
-| Practice Exam 2 | 93/100* |
-| Practice Exam 3 | 97/100* |
-| Practice Exam 4 | 98/100* |
-| Practice Final Exam | 95/100* |
+| [Exam 1](./Exam%201) | 15/15 |
+| [Exam 2](./Exam%202) | 11/15 |
+| [Exam 3](./Exam%203) | 12/12 |
+| [Exam 4](./Exam%204) | 11/11 |
+| [Final Exam](./Final%20Exam) | 32/32 |
+| [Practice Exam 1](./Practice%20Exam%201) | 99/100* |
+| [Practice Exam 2](./Practice%20Exam%202) | 93/100* |
+| [Practice Exam 3](./Practice%20Exam%203) | 97/100* |
+| [Practice Exam 4](./Practice%20Exam%204) | 98/100* |
+| [Practice Final Exam](./Practice%20Final%20Exam) | 95/100* |
 
 \*Practice exams were not graded at the time of completion (~2021). To be more precise, they were graded in 2026 using Claude Opus 4.6 with extended thinking enabled, cross-referenced with the official solutions.
 
